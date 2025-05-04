@@ -18,7 +18,7 @@ export default function BookListControls({ searchTerm, setSearchTerm, setEditMod
                 size="md"
                 leftSection={<IconPlus size={20} />}
             >
-                Adaugă Carte
+                Create Book
             </Button>
         </Group>
     );
