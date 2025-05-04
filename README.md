@@ -32,7 +32,7 @@ React web application for managing a book collection with full CRUD functionalit
 ```
 
 ```bash
- cd book-manager
+ cd book_manager
 ```
 
 #### 2.Create .env file with contents from .env.example
